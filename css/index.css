@@ -1,0 +1,102 @@
+body, html {
+  background-color: #f6f6f6
+}
+
+#painting {
+  background-color: #fff4db;
+  width: 400px;
+  height: 400px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 10px 10px 0px #8d8d8d;
+}
+
+#toprow {
+  height: 290px;
+}
+
+#middlerow {
+  height: 10px;
+}
+
+#bottomrow {
+  height: 100px;
+}
+
+#lefttopcolumn {
+  width: 100px;
+}
+
+#bottomrightcolumn {
+  width: 45px;
+}
+
+#bigbox {
+  width: 290px;
+  height: 290px;
+}
+
+#mediumbox {
+  width: 100px;
+  height: 140px;
+}
+
+#smallbox {
+  width: 100px;
+  height: 100px;
+}
+
+#tinybox {
+  width: 45px;
+  height: 45px;
+}
+
+#divider1 {
+  height: 290px;
+  width: 10px;
+}
+
+#divider2 {
+  height: 10px;
+  width: 100px;
+}
+
+#divider3 {
+  height: 100px;
+  width: 10px;
+}
+
+#divider4 {
+  height: 10px;
+  width: 45px;
+}
+
+.red {
+  background-color: #cc3333;
+}
+
+.blue {
+  background-color: #2f7fd8;
+}
+
+.yellow {
+  background-color: #feda09;
+}
+
+.black {
+  background-color: #393939;
+}
+
+.right{
+  float: right;
+}
+
+.left{
+  float: left;
+}
+
+.mediumbox {
+  width: 100px;
+  height: 140px;
+}
